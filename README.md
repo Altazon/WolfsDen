@@ -18,5 +18,5 @@ Hoping to have some essential features out so there can be other people can buil
 just working on this in my spare time or whenever I feel like it.  This could become pretty interesting.
 
 
-~Eric Sund
+~Eric Sund~
 epsund@tormail.org
